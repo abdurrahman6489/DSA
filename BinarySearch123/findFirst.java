@@ -19,7 +19,7 @@ Output: [-1,-1]
  */
 package BinarySearch;
 import java.util.*;
-public class findFirstandLastPositionofElement {
+class findFirst {
     static int searchLeft(int array[], int k){
         int firstIndex = -1;
         int lowIndex = 0;

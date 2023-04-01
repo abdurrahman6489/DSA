@@ -24,7 +24,7 @@ The three pairs of indices are:
 (3, 4) -> A[3] - 3 = A[4] - 4 -> 3 - 3 = 4 - 4 -> 0 = 0
  */
 
-package Hashmap;
+
 import java.util.*;
 public class array_counting_problem {
     public static void main(String[] args){

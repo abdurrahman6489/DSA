@@ -1,6 +1,5 @@
 //1337. The K Weakest Rows in a Matrix
 //https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/
-package Queue_Deque;
 import java.util.*;
 class kweakestRows{
     public static int[] kWeakestRows(int[][] mat, int k) {
