@@ -18,7 +18,7 @@ Sample Input 1:
 Sample Output 1:
 YES
  */
-package SlidingWindow;
+
 
 import java.util.*;
 

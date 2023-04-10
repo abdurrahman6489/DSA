@@ -1,6 +1,6 @@
 //1352. Product of the Last K Numbers
 //https://leetcode.com/problems/product-of-the-last-k-numbers/description/
-package Queue_Deque;
+
 import java.util.*;
 public class Product_of_the_last_k_numbers {
     public static void main(String[] args){

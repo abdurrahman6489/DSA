@@ -1,4 +1,4 @@
-package Hashmap;
+
 import java.util.*;
 public class range_frequency_queries {
     public static void main(String[] args){

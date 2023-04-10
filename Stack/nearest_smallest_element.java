@@ -39,7 +39,6 @@ Output:
 -1 1 2 3 4
  */
 
-package Stack;
 import java.util.*;
 public class nearest_smallest_element {
     public static void main(String[] args){

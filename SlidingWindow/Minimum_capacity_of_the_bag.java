@@ -25,7 +25,6 @@ Explanation:
 He can take a bag with capacity 2 and collect coins { 3, 4 }.
 Total value = 8 + 3 = 11 ≥ 9
  */
-package SlidingWindow;
 
 import java.util.*;
 class Minimum_capacity_of_the_bag{

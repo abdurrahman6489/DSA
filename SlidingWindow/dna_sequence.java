@@ -18,7 +18,7 @@ GGGGGGGGGGGGG
 Sample Output:-
 GGGGGGGGGG
  */
-package SlidingWindow;
+
 
 import java.util.*;
 

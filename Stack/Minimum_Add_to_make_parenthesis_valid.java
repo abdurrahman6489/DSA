@@ -1,6 +1,6 @@
 //921. Minimum Add to Make Parentheses Valid
 //https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/
-package Stack;
+
 import java.util.*;
 class Minimum_Add_to_make_paranthesis_valid{
     public static void main(String[] args){

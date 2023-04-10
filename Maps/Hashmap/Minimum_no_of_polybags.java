@@ -1,4 +1,4 @@
-package Hashmap;
+
 import java.util.*;
 class Minimum_no_of_polybags{
     public static void main(String[] args){

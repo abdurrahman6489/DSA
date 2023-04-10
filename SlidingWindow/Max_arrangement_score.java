@@ -23,7 +23,7 @@ initial => 2 5 6 2 6 1 => score = 2 + 5 + 6 = 13
 1st operation => 5 6 2 6 1 2 => score = 5 + 6 + 2 = 13
 2nd operation => 6 2 6 1 2 5 => score = 6 + 2 + 6 = 14
  */
-package SlidingWindow;
+
 
 import java.util.*;
 public class Max_arrangement_score {

@@ -1,6 +1,5 @@
 //1817. Finding the Users Active Minutes
 //https://leetcode.com/problems/finding-the-users-active-minutes/
-package Hashmap;
 import java.util.*;
 class Leetcode_Finding_the_Users_Active_Minutes {
     public static void main(String[] args){

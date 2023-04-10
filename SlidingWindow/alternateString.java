@@ -26,7 +26,7 @@ Sample Output:
 Explanation: Use the first operation two times to make s = "100011".
 Then, use the second operation on the third and sixth elements to make s = "101010".
  */
-package SlidingWindow;
+
 import java.util.*;
 public class alternateString {
     public static void main(String[] args) {

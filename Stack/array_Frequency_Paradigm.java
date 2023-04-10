@@ -27,7 +27,7 @@ i = 5, j = 6
 i = 6, j = 7
 i = 7, no such j exists
  */
-package Stack;
+
 import java.util.*;
 class array_Frequency_Paradigm{
     public static void main(String[] args){

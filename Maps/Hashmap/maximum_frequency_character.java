@@ -17,7 +17,7 @@ abadcar
 Sample Output:
 a
  */
-package Hashmap;
+
 import java.util.*;
 public class maximum_frequency_character {
     public static void main(String[] args){

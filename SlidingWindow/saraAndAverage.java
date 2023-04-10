@@ -24,7 +24,7 @@ Explanation:-
 (2 + 3 + 4) /3 = 3
 (3 + 4 + 5)/ 3 = 4
  */
-package SlidingWindow;
+
 
 import java.util.*;
 public class saraAndAverage {

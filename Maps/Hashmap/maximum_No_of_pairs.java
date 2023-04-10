@@ -20,7 +20,7 @@ Form a pair with nums[0] and nums[2] and remove them from nums. Now, nums = [2,2
 Form a pair with nums[0] and nums[1] and remove them from nums. Now, nums = [2].
 No more pairs can be formed. A total of 3 pairs have been formed, and there is 1 number leftover in nums.
  */
-package Hashmap;
+
 import java.util.*;
 
 

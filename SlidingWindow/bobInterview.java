@@ -32,7 +32,7 @@ NO
 Explanation :
 There is now way to select 3 interviews, so that bob can clear at least 3 rounds.
  */
-package SlidingWindow;
+
 
 import java.util.*;
 public class bobInterview {
