@@ -17,7 +17,6 @@ Example 3:
 Input: nums = [], target = 0
 Output: [-1,-1]
  */
-package BinarySearch;
 import java.util.*;
 class findFirst {
     static int searchLeft(int array[], int k){

@@ -1,4 +1,4 @@
-import java.util.*;
+
 class collectGarbage {
     public static void main(String[] args) {
         String garbage[] ={"G","P","GP","GG"};
@@ -11,7 +11,7 @@ class collectGarbage {
         int metallastHouse = -1;
         int totalTime = 0;
         int n = travel.length;
-        int sum = 0; int i;
+        int i;
         for(i = 1;i<n;i++)   travel[i]+=travel[i-1];
         for(i=0;i<=n;i++){
             String s = garbage[i];

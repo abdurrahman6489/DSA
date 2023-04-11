@@ -2,7 +2,6 @@ import java.util.*;
 class startInString {
     public static void main(String[] args){
         String s = "leet**cod*e";
-        String result = "";
         int n = s.length();
         StringBuilder sb = new StringBuilder();
         Deque<Character> deq = new ArrayDeque<>();
