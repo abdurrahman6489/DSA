@@ -41,12 +41,25 @@ class Tree {
         }
     }
 
+    public void traversePreorder() {
+        traversePreorder(root);
+    }
+
+    private void traversePreorder(Node root) {
+        if (root == null)
+            return;
+        System.out.println(root.value);
+        traversePreorder(root.leftChild);
+        traversePreorder(root.rightChild);
+    }
+
     public static void main(String[] args) {
         Tree tree = new Tree();
         tree.insert(7);
         tree.insert(9);
         tree.insert(4);
         tree.insert(8);
-        System.out.print(tree);
+        // System.out.print(tree);
+        tree.traversePreorder();
     }
 }
